@@ -1,4 +1,4 @@
-# Attendance-System-by-using-Python
+
 #Python GUI (tkinter), MySQL database,  matplotlib...  Student Attendance Database Management System.
 # Attendance-System-by-using-Python
 #Python GUI (tkinter), MySQL database, matplotlib. Student Attendance Database Management System.
